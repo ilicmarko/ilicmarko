@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="./pewpew.png" align="right" alt="Emoji avatar of me with pew pew words"/>
+<img src="https://raw.githubusercontent.com/ilicmarko/ilicmarko/master/pewpew.png" align="right" alt="Emoji avatar of me with pew pew words"/>
 
 Full stack web developer from Serbia. I am super passionate about web technologies, optimization and workflow innovations. I have been making an influence on the web since 2011. I am driven to improve my workflow and as such I am constantly integrating new technologies for task automation and project optimization.
 
