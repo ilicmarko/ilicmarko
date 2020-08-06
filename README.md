@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://github.com/ilicmarko" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=ilicmarko&title_color=333&text_color=777" alt="Marko's Stats" >
+  </a>  
+</p>
+
+<p align="center">
+    <img src="https://badges.pufler.dev/visits/ilicmarko/ilicmarko?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/ilicmarko?style=flat-square&color=black&logo=github">
+</p>
+
 ## Hi there 👋
 
 <img src="https://raw.githubusercontent.com/ilicmarko/ilicmarko/master/pewpew.png" align="right" alt="Emoji avatar of me with pew pew words"/>
